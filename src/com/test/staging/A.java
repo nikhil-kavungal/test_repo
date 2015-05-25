@@ -31,6 +31,7 @@ public class A {
 			System.out.println(str);
 			abs.remove(3);
 			ie.remove();
+			System.out.println("Second commit");
 		}
 //
 //		for (int i = 0; i < abs.size(); i++) {
